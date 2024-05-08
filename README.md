@@ -26,7 +26,8 @@
 - The optimization process resulted in the selection of the best parameters for each train-test split.
 - Results were saved in a DataFrame and exported to a CSV file named `result.csv`.
 - A convergence graph was generated to illustrate the improvement in accuracy over iterations.
-- The graph was saved as `line_plot.png` for reference.
+- The graph was saved as `t.png` for reference.
+  <img src = "t.png">
 
 ## Future Improvements
 
